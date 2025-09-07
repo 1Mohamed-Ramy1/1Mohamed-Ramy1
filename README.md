@@ -7,7 +7,7 @@
 >Maybe you have some bird ideas. Maybe that’s the best you can do.”
 ― Terry A. Davis
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #ff6ec4, #7873f5, #4ade80, #22d3ee);" />
+---
 
 ## 🔨 Work in Progress
 
@@ -29,7 +29,7 @@ Level Up To Grandmaster Level Of Problem Solving
 
 Compete in higher-level ACM contests & CTFs.
 
----
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #f00, #0f0, #00f, #f0f, #0ff, #ff0);" />
 
 ## My Tech Stack
 <div align="center">
