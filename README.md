@@ -7,18 +7,27 @@
 >Maybe you have some bird ideas. Maybe that’s the best you can do.”
 ― Terry A. Davis
 
----
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #ff6ec4, #7873f5, #4ade80, #22d3ee);" />
 
 ## 🔨 Work in Progress
-- 🔐 Practicing on **TryHackMe, HackTheBox, PortSwigger**, etc.  
-  → Planning to add a **write-ups repo** for easier CLI-friendly documentation.  
-- 📂 Preparing a **learn-by-building repo** with a README for each project.  
-- ⚡ Sharing my **Obsidian plugin settings** for anyone interested.  
+
+Building C# & C++ projects (OOP, competitive coding).
+
+ALX AWS Cloud Practitioner & AWS Solution Architect
+
+ALX Backend Web Dev & Freelancing track.
+
+Exploring Security+ & CCNA fundamentals.
 
 ## 🎯 Future Goals
-- Contribute to open-source security tools  
-- Build full-stack web apps as part of my backend journey  
-- Participate in higher-level ACM contests & CTFs
+
+Build full-stack web apps.
+
+Contribute to open-source security tools.
+
+Level Up To Grandmaster Level Of Problem Solving
+
+Compete in higher-level ACM contests & CTFs.
 
 ---
 
