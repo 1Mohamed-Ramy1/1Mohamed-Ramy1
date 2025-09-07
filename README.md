@@ -84,7 +84,7 @@ Compete in higher-level ACM contests & CTFs.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=1Mohamed-Ramy1&style=for-the-badge&color=ff0000" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=1Mohamed-Ramy1&style=for-the-badge&color=ff0000" alt="Profile views"/>
 </div>
 
 ![snake gif](https://github.com/1Mohamed-Ramy1/1Mohamed-Ramy1/blob/output/github-contribution-grid-snake-dark.svg)
