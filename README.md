@@ -46,15 +46,15 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xRudee&show_icons=true&theme=merko" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xRudee&layout=compact&theme=merko" height="150" />
-  <img src="https://streak-stats.demolab.com?user=0xRudee&theme=merko" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1Mohamed-Ramy1&show_icons=true&theme=merko" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1Mohamed-Ramy1&layout=compact&theme=merko" height="150" />
+  <img src="https://streak-stats.demolab.com?user=1Mohamed-Ramy1&theme=merko" height="150" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=0xRudee.0xRudee&left_color=darkviolet&right_color=limegreen&left_text=Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=1Mohamed-Ramy1.1Mohamed-Ramy1"&left_color=darkviolet&right_color=limegreen&left_text=Views"  />
 </div>
 
-![snake gif](https://github.com/0xRudee/0xRudee/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/1Mohamed-Ramy1/1Mohamed-Ramy1/blob/output/github-contribution-grid-snake-dark.svg)
