@@ -1,11 +1,6 @@
 
 ---
->“What’s reality? I don’t know. When my bird was looking at my computer monitor I thought,
->‘That bird has no idea what he’s looking at.’ And yet what does the bird do? Does he panic? No
->He can’t really panic, he just does the best he can. Is he able to live in a world where he’s so ignorant? Well, he doesn’t really have a choice.
->You’re that bird looking at the monitor, and you’re thinking to yourself, ‘I can figure this out.’
->Maybe you have some bird ideas. Maybe that’s the best you can do.”
-― Terry A. Davis
+𝒀𝑨 𝑫𝑬𝑽𝑳𝑬𝑻 𝑩𝑨𝑺𝑨 ! .... 𝒀𝑨 𝑲𝑼𝒁𝑮𝑼𝑵 𝑳𝑬Ş𝑬 ! 🦅 🔥
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
 
