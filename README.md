@@ -10,7 +10,7 @@ Building C# & C++ projects (OOP, competitive coding).
 
 ALX AWS Cloud Practitioner & AWS Solution Architect
 
-ALX Backend Web Dev & Freelancing track.
+ALX Backend Web Dev (Django) & Freelancing track.
 
 Exploring Security+ & CCNA fundamentals.
 
