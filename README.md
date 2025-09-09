@@ -18,7 +18,7 @@ Exploring Security+ & CCNA fundamentals.
 
 Build full-stack web apps.
 
-Automate deployments & CI/CD pipelines while mastering cloud infrastructure and monitoring
+Master DevOps: automate infrastructure 
 
 Level Up To Grandmaster Level Of Problem Solving
 
