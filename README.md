@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
 
 ## 🎯 Future Goals
-- Deliver production-ready full-stack applications.  
+- Deliver production-ready full-stack web applications.  
 - Automate infrastructure and master DevOps practices.  
 - Reach **Grandmaster** level in problem-solving.  
 - Compete in advanced CTFs & strengthen defensive security skills.  
