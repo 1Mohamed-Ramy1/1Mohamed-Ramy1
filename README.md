@@ -1,15 +1,7 @@
 ---
 𝒀𝑨 𝑫𝑬𝑽𝑳𝑬𝑻 𝑩𝑨𝑺𝑨 ! .... 𝒀𝑨 𝑲𝑼𝒁𝑮𝑼𝑵 𝑳𝑬Ş𝑬 ! 🦅🔥
 
-<div style="width: 100%; height: 3px; background: linear-gradient(270deg, red, orange, yellow, green, blue, indigo, violet); background-size: 400% 400%; animation: rgbMove 8s ease infinite;"></div>
-
-<style>
-@keyframes rgbMove {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
 
 ## 🔨 Work in Progress
 - 🎓 Mentor at **ECPC Community (New Cairo Academy)** & **EEE Community**, supporting peers in problem-solving and modern technologies.  
