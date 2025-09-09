@@ -1,7 +1,6 @@
 
 ---
 𝒀𝑨 𝑫𝑬𝑽𝑳𝑬𝑻 𝑩𝑨𝑺𝑨 ! .... 𝒀𝑨 𝑲𝑼𝒁𝑮𝑼𝑵 𝑳𝑬Ş𝑬 ! 🦅 🔥
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
 
 ## **🔨 Work in Progress:**
@@ -70,7 +69,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1Mohamed-Ramy1&show_icons=true&theme=merko" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1Mohamed-Ramy1&layout=compact&theme=merko&cache_seconds=60" height="150" />
-  <img src="https://streak-stats.demolab.com?user=1Mohamed-Ramy1&theme=merko" height="150" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
