@@ -1,7 +1,9 @@
 ---
 𝒀𝑨 𝑫𝑬𝑽𝑳𝑬𝑻 𝑩𝑨𝑺𝑨 ! .... 𝒀𝑨 𝑲𝑼𝒁𝑮𝑼𝑵 𝑳𝑬Ş𝑬 ! 🦅🔥
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #ff0000, #00ff00, #0000ff);" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/1Mohamed-Ramy1/1Mohamed-Ramy1/main/rgb-line.gif" width="100%" height="2px"/>
+</div>
 
 ## 🔨 Work in Progress
 - 🎓 Mentor at **ECPC Community (New Cairo Academy)** & **EEE Community**, supporting peers in problem-solving and modern technologies.  
