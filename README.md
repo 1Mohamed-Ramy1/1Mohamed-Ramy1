@@ -4,15 +4,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
 
-## 🔨 Work in Progress  
-- Building C# & C++ projects (OOP, Competitive Programming).  
+## **🔨 Work in Progress:**
+ Mentor at **ECPC Community (New Cairo Academy)** and **EEE Community**, guiding peers in problem-solving and technology.
+- Building C-sharp & Cpp & python projects   
 - ALX AWS Cloud Practitioner & Solutions Architect track.  
 - ALX Backend Web Development (Django) & Freelancing track.  
 - Exploring Security+ and CCNA fundamentals.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
 
-## 🎯 Future Goals  
+## **🎯 Future Goals:**
 - Build full-stack web applications.  
 - Master DevOps and automate infrastructure.  
 - Reach Grandmaster level in problem solving.  
@@ -20,7 +21,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
 
-## My Tech Stack
+## **My Tech Stack:**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
   <img width="12" />
@@ -51,7 +52,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
 
-# Connect with me:
+# **Connect with me:**
 <div align="center">
   <a href="mailto:mohamedramysocial@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
