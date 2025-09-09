@@ -4,27 +4,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
 
-## 🔨 Work in Progress
-
-Building C# & C++ projects (OOP, competitive coding).
-
-ALX AWS Cloud Practitioner & AWS Solution Architect
-
-ALX Backend Web Dev (Django) & Freelancing track.
-
-Exploring Security+ & CCNA fundamentals.
+## 🔨 Work in Progress  
+- Building C# & C++ projects (OOP, Competitive Programming).  
+- ALX AWS Cloud Practitioner & Solutions Architect track.  
+- ALX Backend Web Development (Django) & Freelancing track.  
+- Exploring Security+ and CCNA fundamentals.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
 
-## 🎯 Future Goals
-
-Build full-stack web apps.
-
-Master DevOps: automate infrastructure 
-
-Level Up To Grandmaster Level Of Problem Solving
-
-Compete in high-level CTFs & defensive security skills
+## 🎯 Future Goals  
+- Build full-stack web applications.  
+- Master DevOps and automate infrastructure.  
+- Reach Grandmaster level in problem solving.  
+- Compete in advanced CTFs and strengthen defensive security skills.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
 
