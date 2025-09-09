@@ -18,11 +18,11 @@ Exploring Security+ & CCNA fundamentals.
 
 Build full-stack web apps.
 
-Contribute to open-source security tools.
+Automate deployments & CI/CD pipelines while mastering cloud infrastructure and monitoring
 
 Level Up To Grandmaster Level Of Problem Solving
 
-Compete in higher-level ACM contests & CTFs.
+Compete in high-level CTFs & defensive security skills
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
 
