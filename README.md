@@ -1,7 +1,7 @@
 ---
 𝒀𝑨 𝑫𝑬𝑽𝑳𝑬𝑻 𝑩𝑨𝑺𝑨 ! .... 𝒀𝑨 𝑲𝑼𝒁𝑮𝑼𝑵 𝑳𝑬Ş𝑬 ! 🦅🔥
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #ff0000, #00ff00, #0000ff);" />
 
 ## 🔨 Work in Progress
 - 🎓 Mentor at **ECPC Community (New Cairo Academy)** & **EEE Community**, supporting peers in problem-solving and modern technologies.  
