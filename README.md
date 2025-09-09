@@ -9,15 +9,15 @@
 - Building C-sharp & Cpp & python projects   
 - ALX AWS Cloud Practitioner & Solutions Architect track.  
 - ALX Backend Web Development (Django) & Freelancing track.  
-- Exploring Security+ and CCNA fundamentals.
+- Exploring Security+ & CCNA fundamentals.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
 
 ## **🎯 Future Goals:**
 - Build full-stack web applications.  
-- Master DevOps and automate infrastructure.  
+- Master DevOps & automate infrastructure.  
 - Reach Grandmaster level in problem solving.  
-- Compete in advanced CTFs and strengthen defensive security skills.
+- Compete in advanced CTFs & strengthen defensive security skills.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
 
