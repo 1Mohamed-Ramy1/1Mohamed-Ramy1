@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
 
 ## **🔨 Work in Progress:**
- Mentor at **ECPC Community (New Cairo Academy)** and **EEE Community**, guiding peers in problem-solving and technology.
+- Mentor at **ECPC Community (New Cairo Academy)** and **EEE Community**, guiding peers in problem-solving and technology.
 - Building C-sharp & Cpp & python projects   
 - ALX AWS Cloud Practitioner & Solutions Architect track.  
 - ALX Backend Web Development (Django) & Freelancing track.  
