@@ -70,6 +70,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1Mohamed-Ramy1&layout=compact&theme=merko&cache_seconds=300" height="150"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1Mohamed-Ramy1&show_icons=true&theme=merko" height="150"/>
 </div>
 
