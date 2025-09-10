@@ -69,6 +69,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Mohamed-Ramy1&layout=compact&langs_count=20&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1Mohamed-Ramy1&layout=compact&theme=merko&cache_seconds=300" height="150"/>
 </div>
 
