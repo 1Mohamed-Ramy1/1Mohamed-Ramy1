@@ -6,7 +6,7 @@
 
 
 ## 🔨 Work in Progress
-- 🎓 Mentor at **ECPC Community (New Cairo Academy)** & **EEE Community**, supporting peers in problem-solving and modern technologies.  
+- 🎓 Mentor at **ECPC Community (New Cairo Academy)** & **IEEE Community**, supporting peers in problem-solving and modern technologies.  
 - Building projects with **C#, C++, and Python**.  
 - ALX AWS Cloud Practitioner & Solutions Architect track.  
 - ALX Backend Web Development (Django) & Freelancing track.  
